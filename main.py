@@ -1,4 +1,4 @@
-# Works on Mac, not on Windows 10 - webdriver_manager can only be found/installed on Mac
+# Works on Mac, not on Windows 10 - webdriver_manager package can only be found/installed on Mac
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service as ChromeService
